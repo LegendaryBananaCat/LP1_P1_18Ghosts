@@ -6,5 +6,10 @@ namespace Jogo18Ghosts
 {
     class GameBoard
     {
+        // ----------> Instances <---------- //
+
+        // ----------> Constructors <---------- //
+
+        // ----------> Functions <---------- //
     }
 }
